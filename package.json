@@ -1,9 +1,9 @@
 {
-  "name": "expensify",
+  "name": "despesismo",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
-  "license": "MIT",
+  "author": "Carlos Amorim",
+  "license": "UAB",
   "scripts": {
     "serve": "live-server public/",
     "build:dev": "webpack",
