@@ -1,4 +1,7 @@
-numeral.register('locale', 'fr', {
+import numeral from "numeral";
+
+// load a locale
+numeral.register('locale', 'pt', {
     delimiters: {
         thousands: ' ',
         decimal: ','
@@ -16,6 +19,3 @@ numeral.register('locale', 'fr', {
         symbol: '€'
     }
 });
-
-// switch between locales
-numeral.locale('fr');
