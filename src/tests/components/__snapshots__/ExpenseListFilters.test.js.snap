@@ -12,14 +12,14 @@ exports[`should render ExpenseListFilters correctly 1`] = `
     value="date"
   >
     <option
-      value="date"
+      value="Data"
     >
-      Date
+      Data
     </option>
     <option
-      value="amount"
+      value="Montante"
     >
-      Amount
+      Montante
     </option>
   </select>
   <DateRangePicker
@@ -116,14 +116,14 @@ exports[`should render ExpenseListFilters with alt data correctly 1`] = `
     value="amount"
   >
     <option
-      value="date"
+      value="Data"
     >
-      Date
+      Data
     </option>
     <option
-      value="amount"
+      value="Montante"
     >
-      Amount
+      Montante
     </option>
   </select>
   <DateRangePicker

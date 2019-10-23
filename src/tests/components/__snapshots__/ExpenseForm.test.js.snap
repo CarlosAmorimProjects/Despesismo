@@ -8,13 +8,13 @@ exports[`should render ExpenseForm correctly 1`] = `
     <input
       autoFocus={true}
       onChange={[Function]}
-      placeholder="Description"
+      placeholder="Descrição"
       type="text"
       value=""
     />
     <input
       onChange={[Function]}
-      placeholder="Amount"
+      placeholder="Montante"
       type="text"
       value=""
     />
@@ -92,11 +92,11 @@ exports[`should render ExpenseForm correctly 1`] = `
     />
     <textarea
       onChange={[Function]}
-      placeholder="Add a note for your expense (optional)"
+      placeholder="Adicione uma nota à sua despesa (opcional)"
       value=""
     />
     <button>
-      Add Expense
+      Adicionar despesa
     </button>
   </form>
 </div>
@@ -110,13 +110,13 @@ exports[`should render ExpenseForm correctly with expense data 1`] = `
     <input
       autoFocus={true}
       onChange={[Function]}
-      placeholder="Description"
+      placeholder="Descrição"
       type="text"
       value="Rent"
     />
     <input
       onChange={[Function]}
-      placeholder="Amount"
+      placeholder="Montante"
       type="text"
       value="1095"
     />
@@ -194,11 +194,11 @@ exports[`should render ExpenseForm correctly with expense data 1`] = `
     />
     <textarea
       onChange={[Function]}
-      placeholder="Add a note for your expense (optional)"
+      placeholder="Adicione uma nota à sua despesa (opcional)"
       value=""
     />
     <button>
-      Add Expense
+      Adicionar despesa
     </button>
   </form>
 </div>
@@ -212,13 +212,13 @@ exports[`should render error for invalid form submission 1`] = `
     <input
       autoFocus={true}
       onChange={[Function]}
-      placeholder="Description"
+      placeholder="Descrição"
       type="text"
       value=""
     />
     <input
       onChange={[Function]}
-      placeholder="Amount"
+      placeholder="Montante"
       type="text"
       value=""
     />
@@ -296,11 +296,11 @@ exports[`should render error for invalid form submission 1`] = `
     />
     <textarea
       onChange={[Function]}
-      placeholder="Add a note for your expense (optional)"
+      placeholder="Adicione uma nota à sua despesa (opcional)"
       value=""
     />
     <button>
-      Add Expense
+      Adicionar despesa
     </button>
   </form>
 </div>

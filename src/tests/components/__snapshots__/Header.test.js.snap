@@ -3,20 +3,20 @@
 exports[`should render Header correctly 1`] = `
 <header>
   <h1>
-    Expensify
+    Despesismo
   </h1>
   <NavLink
     activeClassName="is-active"
     exact={true}
     to="/"
   >
-    Dashboard
+    Página principal
   </NavLink>
   <NavLink
     activeClassName="is-active"
     to="/create"
   >
-    Create Expense
+    Adicionar despesa
   </NavLink>
 </header>
 `;
