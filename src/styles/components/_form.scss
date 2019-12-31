@@ -1,18 +1,12 @@
 .form {
-    display: flex;
-    flex-direction: column;
-    >* {
-        margin-bottom: $m-size;
-    }
+  display: flex;
+  flex-direction: column;
+  >* {
+    margin-bottom: $m-size;
+  }
 }
 
-.form_error {
-    margin: 0 0 $m-size 0;
-    font-style: italic;
-
-}
-
-.button-secondary {
-    @extend .button;
-    background-color: #888888;
+.form__error {
+  margin: 0 0 $m-size 0;
+  font-style: italic;
 }

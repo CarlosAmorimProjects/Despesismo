@@ -5,9 +5,9 @@ import { startLogout } from "../actions/auth";
 
 const Header = ({ startLogout }) => (
   <header className = "header">
-    <div className = "content_container">
-      <div className = "header_content">
-         <Link className = "header_title" to="/dashboard">
+    <div className = "content-container">
+      <div className = "header__content">
+         <Link className = "header__title" to="/dashboard">
             <h1>Despesismo</h1>
           </Link>
         <button className= "button button--link" onClick={startLogout}>Sair</button>
