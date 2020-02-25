@@ -1,4 +1,4 @@
-Projecto-Despesismo (em desenvolvimento)
+Projecto-Despesismo
 
 https://despesismo.herokuapp.com/
 
